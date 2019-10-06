@@ -41,6 +41,10 @@
                 <string>soundcloud</string>
                 <string>fb-messenger</string>
                 <string>instagram</string>
+				<string>uber</string>
+				<string>mapsme</string>
+				<string>waze</string>
+				<string>comgooglemaps</string>
             </array>
         </config-file>
         
